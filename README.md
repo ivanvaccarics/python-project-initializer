@@ -90,7 +90,7 @@ source .venv/bin/activate
 
 For Windows (Git Bash, Cygwin):
 ```bash
-source .venv/Scripts/activate
+.venv/Scripts/activate
 ```
 
 For Windows (Command Prompt, PowerShell), the script will provide instructions.
